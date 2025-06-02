@@ -1,7 +1,7 @@
 
 # NAME:Gajalakshmi V
 # REG NO: 212223040047
-# HALF_ADDER_SUBTRACTOR
+# HALF ADDER SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
